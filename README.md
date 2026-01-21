@@ -1,6 +1,8 @@
+<a name="readme-top"></a>
 
+  # 📱 iPhone 16 Pro — 3D Website Clone
 
-  # 📱 iPhone 16 Pro 
+  ![Project Screenshot](https://i.postimg.cc/vTr06xHT/Screenshot-2024-10-02-024906.png)
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
@@ -9,9 +11,11 @@
 
   <br/>
 
-  ##  **⭐ First iPhone 16 Pro Clone Website ⭐**
+  ## ⭐ Overview
 
-  ### This project is the first clone of the iPhone 16 Pro website, providing an immersive 3D web experience. Built using React, Three.js, GSAP, and Tailwind CSS, this website replica showcases sleek design, interactive 3D elements, and smooth animations. ⭐ Feel free to star this project if you like it! ⭐
+  ### •A high-fidelity 3D website clone inspired by the iPhone 16 Pro, focused on smooth animations, immersive visuals, and modern UI techniques.
+  ### •Built as a front-end and 3D web experiment using React, Three.js, GSAP, and Tailwind CSS.
+  ### •Feel free to star this project if you like it!
 
   <br/>
 
@@ -27,14 +31,18 @@
   ## 📸 **Preview**
   ### Check out a preview of the iPhone 16 Pro clone website:
 
-  ![Project Screenshot](https://i.postimg.cc/vTr06xHT/Screenshot-2024-10-02-024906.png)
+  ![Project Screenshot](https://i.postimg.cc/vHkbxPTv/737691FB-21B6-473C-AA2A-9D196C3EBC53.jpg)
+  ![Project Screenshot](https://i.postimg.cc/G2xmkvVc/97CD59CC-B180-4E30-AF86-B7109CF6BA39.jpg)
 
   <br/>
   
-  ## 🔗 **Live Preview**
+  ## 🔗 **Live Demo**
 
-  Explore the live demo of the iPhone 16 Pro website: [🡽](https://i-phone-16-pro.vercel.app/)
+  Explore the live demo of the iPhone 16 Pro website: **[👉Press Here](https://alexandruarmas.github.io/iphone-16-pro-clone/)**
+  
+  ![Project Screenshot](https://i.postimg.cc/4yGhGfkG/1187F6E8-F21A-412C-88A7-50D89F64EA04-4-5005-c.jpg)
 
+  
   <br/>
 
   ## 💻 **Tech Stack Used in This iPhone 16 Pro Clone**
@@ -69,33 +77,23 @@
 
   <br/>
 
-  ## 🌟 **Future Enhancements**
+  ## 🌟 **Possible Improvements**
 
-   1.Add more detailed 3D interactions with the iPhone 16 Pro model
-   2.Implement additional GSAP animations for a more dynamic experience
-   3.Integrate light and dark mode themes
-   4.Optimize for mobile responsiveness
+   1. Enhance 3D interactions with the product model  
+   2. Add more GSAP-driven animations  
+   3. Implement light and dark theme support  
+   4. Improve mobile responsiveness and performance
 
   <br/>
 
-  ## Contact
+  ## 📬 **Contact**
 
 If you have any questions or inquiries regarding the iPhone 16 Pro clone, feel free to reach out via email:  
-[contact@alexandruarmas.ro](mailto:contact@alexandruarmas.ro)
+[**contact@alexandruarmas.ro**](mailto:contact@alexandruarmas.ro)
 
    
 <br/>
 
-## ❤️Contributors
+  Made with ❤️ by **Alexandru Armas**
 
-<p align='center'><a href="https://github.com/alexandruarmas/iPhone-16-Pro-Clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alexandruarmas/iPhone-16-Pro-Clone" />
-</a></p>
-
-<br/>
-
-
-  <br/>
-
-  _Made_ by Alexandru Armas_
 </div>
